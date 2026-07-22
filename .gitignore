@@ -1,0 +1,17 @@
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+
+# Python
+__pycache__/
+*.pyc
+.venv/

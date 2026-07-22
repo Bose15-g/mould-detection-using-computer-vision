@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-07-20T11:57:11.950157",
+  "recent_records": [
+    {
+      "timestamp": "2026-07-20T11:55:25.278612",
+      "fill_percentage": 39.78759001964065,
+      "status": "NO FILL",
+      "good_count": 0,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:55:31.373129",
+      "fill_percentage": 63.570512612103585,
+      "status": "NO FILL",
+      "good_count": 0,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:55:37.468788",
+      "fill_percentage": 77.22461803657623,
+      "status": "NO FILL",
+      "good_count": 0,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:55:43.552608",
+      "fill_percentage": 85.74078292704925,
+      "status": "NO FILL",
+      "good_count": 0,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:55:49.645901",
+      "fill_percentage": 89.68425443354326,
+      "status": "NO FILL",
+      "good_count": 0,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:56:13.857138",
+      "fill_percentage": 91.48674092005965,
+      "status": "FILL",
+      "good_count": 1,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:56:19.944599",
+      "fill_percentage": 84.2305478727379,
+      "status": "FILL",
+      "good_count": 1,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:56:26.025832",
+      "fill_percentage": 78.24733283632509,
+      "status": "FILL",
+      "good_count": 1,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:56:32.087957",
+      "fill_percentage": 70.91193510687553,
+      "status": "FILL",
+      "good_count": 1,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:56:38.189784",
+      "fill_percentage": 62.60923747508916,
+      "status": "FILL",
+      "good_count": 1,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:56:44.276772",
+      "fill_percentage": 60.35801661819394,
+      "status": "FILL",
+      "good_count": 1,
+      "bad_count": 1,
+      "alarm_status": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:57:11.949772",
+      "fill_percentage": 58.08886529951087,
+      "status": "NO FILL",
+      "good_count": 1,
+      "bad_count": 2,
+      "alarm_status": 0
+    }
+  ],
+  "alarms": [
+    {
+      "timestamp": "2026-07-20T11:55:15.747700",
+      "type": "PART_REJECTED",
+      "message": "Bad part rejected. Count: 1",
+      "severity": "WARNING"
+    },
+    {
+      "timestamp": "2026-07-20T11:56:07.849292",
+      "type": "PART_ACCEPTED",
+      "message": "Good part accepted. Count: 1",
+      "severity": "OK"
+    },
+    {
+      "timestamp": "2026-07-20T11:57:02.405877",
+      "type": "PART_REJECTED",
+      "message": "Bad part rejected. Count: 2",
+      "severity": "WARNING"
+    }
+  ],
+  "summary": {
+    "total_good": 7,
+    "total_bad": 13
+  }
+}
